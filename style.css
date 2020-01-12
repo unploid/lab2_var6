@@ -1,0 +1,17 @@
+div {
+  float: ;
+  }
+  .table {
+    float: left;
+    position: absolute;
+    text-align: center;
+    width: 80%;
+    border-collapse:collapse;
+    border: 2px solid #cc0018;
+    border-bottom: 1px solid #cc0018;
+  }
+  
+  #ourblock {
+    border: 1px solid;
+    position: relative;
+  }
