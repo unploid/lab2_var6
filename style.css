@@ -13,5 +13,5 @@ div {
   
   #ourblock {
     border: 1px solid;
-    position: relative;
+    position: absolute;
   }
